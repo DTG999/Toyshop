@@ -1,0 +1,16 @@
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\obj\Debug\ToyShop.csprojAssemblyReference.cache
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\obj\Debug\ToyShop.Properties.Resources.resources
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\obj\Debug\ToyShop.csproj.GenerateResource.cache
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\obj\Debug\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\bin\Debug\ToyShop.exe.config
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\bin\Debug\ToyShop.exe
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\bin\Debug\ToyShop.pdb
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\obj\Debug\ToyShop.exe
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\obj\Debug\ToyShop.pdb
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\obj\Debug\ToyShop.Authorize.resources
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\obj\Debug\ToyShop.MainForm.resources
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\obj\Debug\ToyShop.DataEmployee.resources
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\obj\Debug\ToyShop.DataToy.resources
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\obj\Debug\ToyShop.DataUser.resources
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\obj\Debug\ToyShop.DataStorage.resources
+C:\Users\Kain\Desktop\S\Kursov\ToyShop\ToyShop\obj\Debug\ToyShop.DataDelivery.resources
